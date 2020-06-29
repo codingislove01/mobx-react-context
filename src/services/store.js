@@ -7,7 +7,7 @@ export default class Store {
 
   @observable user = {
     userId: 1,
-    name: "Ranjith kumar V",
+    name: "Ranjith kumar",
     website: "https://codingislove.com",
     email: "ranjith@codingislove.com",
   };
