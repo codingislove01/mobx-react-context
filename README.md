@@ -1,3 +1,9 @@
+This is a boilerplate project for using Mobx with react context.
+
+This bolierplate project was made for a tutorial on [How to setup Mobx with react context](https://codingislove/com/setup-mobx-react-context)
+
+![Mobx react context demo](https://i.imgur.com/CSbLENM.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
